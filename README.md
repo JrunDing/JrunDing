@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JrunDing 👨‍💻</h1>
-
+<font size=8>I am a graduate student studying in southeast university Nanjing China.</font>
 - <font size=8>I am a graduate student studying in southeast university Nanjing China.</font>
 - <font size=8>My major is information and communication engineering.</font>
 - <font size=8>I am interested in ai, communication, automation, electronic, movie, games, photography, etc.</font>
