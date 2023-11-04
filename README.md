@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm JrunDing 👨‍💻</h1>
-<h3 align="center">A graduate student studying in southeast university Nanjing China. My major is information and communication engineering. I am interested in ai, communication, automation, electronic, movie, games, photography, etc.</h3>
+- A graduate student studying in southeast university Nanjing China.
+- My major is information and communication engineering.
+- I am interested in ai, communication, automation, electronic, movie, games, photography, etc.
+- Welcome to my homepage: https://jrunding.github.io/
+- How to reach me📫: jrunding@seu.edu.cn
+
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/jrunDing"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcodeman008&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
@@ -12,7 +17,6 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JrunDing" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrunDing&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
-<p align="center">  How to reach me 📫 jrunding@seu.edu.cn 📫
 
 <div align=center> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 
