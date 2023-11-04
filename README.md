@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm JrunDing 👨‍💻</h1>
 
-- I am a graduate student studying in southeast university Nanjing China.
-- My major is information and communication engineering.
-- I am interested in ai, communication, automation, electronic, movie, games, photography, etc.
-- Welcome to my homepage: https://jrunding.github.io/
-- Welcome to my Bilibili: https://space.bilibili.com/476325736?spm_id_from=333.1007.0.0
-- How to reach me📫: jrunding@seu.edu.cn
+- <font size=5>I am a graduate student studying in southeast university Nanjing China.</font>
+- <font size=5>My major is information and communication engineering.</font>
+- <font size=5>I am interested in ai, communication, automation, electronic, movie, games, photography, etc.</font>
+- <font size=5>Welcome to my homepage: https://jrunding.github.io/</font>
+- <font size=5>Welcome to my Bilibili: https://space.bilibili.com/476325736?spm_id_from=333.1007.0.0</font>
+- <font size=5>How to reach me📫: jrunding@seu.edu.cn</font>
 
 
 <div align="center">
