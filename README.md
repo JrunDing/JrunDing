@@ -2,7 +2,7 @@
 
 - <font size=8>I am a graduate student studying in Southeast University, Nanjing, China.😀</font>
 - <font size=8>My major is information and communication engineering.📡</font>
-- <font size=8>I am interested in AI🤖, communication📱, automation🛩️, electronic🎚️, CS💻, movie💿, games⌨️, photography📷, music🎵, etc.</font>
+- <font size=8>I am interested in AI🤖, communication📱, automation🛩️, electronic🎚️, CS💻, basketball🏀, movie💿, games⌨️, photography📷, music🎵, etc.</font>
 - <font size=8>Welcome to my homepage: https://jrunding.github.io/</font>
 - <font size=8>Welcome to my Bilibili: https://space.bilibili.com/476325736?spm_id_from=333.1007.0.0</font>
 - <font size=8>How to reach me📫: jrunding@seu.edu.cn</font>
