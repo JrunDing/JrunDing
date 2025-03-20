@@ -8,13 +8,5 @@
 - <font size=8>How to reach me: jrunding@seu.edu.cn</font>
 
 
-<div align="center">
-<span>  </span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=JrunDing" /><span> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrunDing&show_icons=true)
-</span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrunDing&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
-
 <div align=center> <img width="400" height="300" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 
