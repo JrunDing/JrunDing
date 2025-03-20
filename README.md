@@ -11,7 +11,7 @@
 <div align="center">
 <span>  </span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JrunDing" /><span> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrunDing)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrunDing&show_icons=true)
 </span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrunDing&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
