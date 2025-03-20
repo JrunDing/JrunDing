@@ -10,7 +10,9 @@
 
 <div align="center">
 <span>  </span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=JrunDing" /><span>  </span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrunDing&layout=compact&langs_count=8" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=JrunDing" /><span> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrunDing)](https://github.com/anuraghazra/github-readme-stats)
+</span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrunDing&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
